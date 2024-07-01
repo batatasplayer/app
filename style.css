@@ -26,10 +26,11 @@
   background-color:#c8b3a6;
   padding:200px
 }
-#onda{
-  height:300px
-}
 #sobremim{
   padding:200px;
   background-color:#;
+}
+#onda{
+  position: absolute;
+  top:450px;
 }
